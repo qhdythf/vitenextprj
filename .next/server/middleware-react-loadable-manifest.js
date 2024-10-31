@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app\\\\client.tsx -> ../App":{"id":3202,"files":["static/chunks/153-ce26a1a02a485687.js","static/chunks/24.266af225129e7160.js","static/chunks/202.9c16648edb504b0a.js"]}}';
